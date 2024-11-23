@@ -1,0 +1,6 @@
+com\tienda\inventario\controller\ProductoController.class
+com\tienda\inventario\TiendaInventarioApplication.class
+com\tienda\inventario\repository\ProductoRepository.class
+com\tienda\inventario\config\WebConfig.class
+com\tienda\inventario\service\ProductoService.class
+com\tienda\inventario\model\Producto.class
